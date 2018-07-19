@@ -1,0 +1,10 @@
+body
+{
+	margin-bottom: 500px;
+	height:800px;
+	background: linear-gradient(#27AE60,#ffee00);
+}
+.form-group
+{
+  font-family: "Amaranth"
+}
